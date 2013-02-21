@@ -1,0 +1,16 @@
+{
+    "name":"adticket/tab-bundle",
+    "description":"Bundle, das Tabs rendert.",
+    "type":"library",
+    "homepage":"https://github.com/adticket/TabBundle",
+    "require":{
+        "php":">=5.3.3",
+        "symfony/symfony":"2.1.*"
+    },
+    "target-dir":"Adticket/TabBundle",
+    "autoload":{
+        "psr-0":{
+            "Adticket\\TabBundle":""
+        }
+    }
+}
