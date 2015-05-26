@@ -1,6 +1,7 @@
 {
     "name":"adticket/tab-bundle",
     "description":"Bundle, das Tabs rendert.",
+    "license": "MIT",
     "type":"library",
     "homepage":"https://github.com/adticket/TabBundle",
     "require":{
